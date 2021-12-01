@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/AvedaOMAR/static/css/main.294906ae.chunk.css",
+    "main.js": "/AvedaOMAR/static/js/main.602a2092.chunk.js",
+    "main.js.map": "/AvedaOMAR/static/js/main.602a2092.chunk.js.map",
+    "runtime-main.js": "/AvedaOMAR/static/js/runtime-main.603dbedd.js",
+    "runtime-main.js.map": "/AvedaOMAR/static/js/runtime-main.603dbedd.js.map",
+    "static/js/2.c484cbf3.chunk.js": "/AvedaOMAR/static/js/2.c484cbf3.chunk.js",
+    "static/js/2.c484cbf3.chunk.js.map": "/AvedaOMAR/static/js/2.c484cbf3.chunk.js.map",
+    "static/js/3.e27705ac.chunk.js": "/AvedaOMAR/static/js/3.e27705ac.chunk.js",
+    "static/js/3.e27705ac.chunk.js.map": "/AvedaOMAR/static/js/3.e27705ac.chunk.js.map",
+    "index.html": "/AvedaOMAR/index.html",
+    "static/css/main.294906ae.chunk.css.map": "/AvedaOMAR/static/css/main.294906ae.chunk.css.map",
+    "static/js/2.c484cbf3.chunk.js.LICENSE.txt": "/AvedaOMAR/static/js/2.c484cbf3.chunk.js.LICENSE.txt",
+    "static/media/img10.b9d04578.png": "/AvedaOMAR/static/media/img10.b9d04578.png",
+    "static/media/img11.fbec4dd9.png": "/AvedaOMAR/static/media/img11.fbec4dd9.png",
+    "static/media/img12.0082c5a0.png": "/AvedaOMAR/static/media/img12.0082c5a0.png",
+    "static/media/img13.f7aca70c.png": "/AvedaOMAR/static/media/img13.f7aca70c.png",
+    "static/media/img14.74e2d96b.png": "/AvedaOMAR/static/media/img14.74e2d96b.png",
+    "static/media/img15.82c05fb3.png": "/AvedaOMAR/static/media/img15.82c05fb3.png",
+    "static/media/img16.c8eb89ea.png": "/AvedaOMAR/static/media/img16.c8eb89ea.png",
+    "static/media/img3.7ef6d4c4.png": "/AvedaOMAR/static/media/img3.7ef6d4c4.png",
+    "static/media/img4.b02cdc98.png": "/AvedaOMAR/static/media/img4.b02cdc98.png",
+    "static/media/img5.6a2fb810.png": "/AvedaOMAR/static/media/img5.6a2fb810.png",
+    "static/media/img6.82c05fb3.png": "/AvedaOMAR/static/media/img6.82c05fb3.png",
+    "static/media/img7.c8eb89ea.png": "/AvedaOMAR/static/media/img7.c8eb89ea.png",
+    "static/media/img8.a78bf48d.png": "/AvedaOMAR/static/media/img8.a78bf48d.png",
+    "static/media/img9.74e2d96b.png": "/AvedaOMAR/static/media/img9.74e2d96b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.603dbedd.js",
+    "static/js/2.c484cbf3.chunk.js",
+    "static/css/main.294906ae.chunk.css",
+    "static/js/main.602a2092.chunk.js"
+  ]
+}
